@@ -7,6 +7,9 @@
 - indoorは記録をさぼってしまい、実験管理もできてなくてぐちゃぐちゃになったのでしっかりやる。
 
 
+## 参考
+- [Satellite positioning(衛星測位システム)のwiki](https://ja.wikipedia.org/wiki/%E8%A1%9B%E6%98%9F%E6%B8%AC%E4%BD%8D%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)
+
 ## Data
 - ground_truth.csv(予想されるタイムスタンプでの参照位置)
   - millisSinceGpsEpoch : GPSのエポック（1980/1/6深夜UTC）からのミリ秒単位の整数値.
